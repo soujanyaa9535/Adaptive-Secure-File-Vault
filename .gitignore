@@ -1,0 +1,33 @@
+# Environment & Secrets
+.env
+/config/.env
+
+# Dependencies
+/vendor/
+__pycache__/
+*.pyc
+venv/
+.env/
+
+# Root-level Malware Test Files & Logs
+test_*.txt
+test_*.pdf
+project_tree.txt
+
+# Dynamic Storage (Ignore contents, retain directories)
+/storage/backups/*
+!/storage/backups/.gitkeep
+/storage/encrypted_files/*
+!/storage/encrypted_files/.gitkeep
+/storage/keys/*
+!/storage/keys/.gitkeep
+/storage/logs/*
+!/storage/logs/.gitkeep
+/storage/quarantine/*
+!/storage/quarantine/.gitkeep
+/storage/temp/*
+!/storage/temp/.gitkeep
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+/storage/test_samples/*
+!/storage/test_samples/.gitkeep

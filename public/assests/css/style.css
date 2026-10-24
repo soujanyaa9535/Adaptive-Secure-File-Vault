@@ -1,0 +1,22 @@
+body{
+    background:#f4f7fb;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.display-3{
+    color:#0d6efd;
+    font-weight:700;
+}
+
+.navbar-brand{
+    font-size:1.4rem;
+}
+
+.btn{
+    border-radius:10px;
+}
+
+.lead{
+    max-width:850px;
+    margin:auto;
+}

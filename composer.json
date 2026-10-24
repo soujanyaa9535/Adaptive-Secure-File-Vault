@@ -1,0 +1,16 @@
+{
+    "name": "soujanya/adaptive-secure-file-vault",
+    "description": "Adaptive Secure File Vault with Zero-Knowledge Encryption, Malware Protection, and Intelligent Threat Detection",
+    "type": "project",
+    "autoload": {
+    "psr-4": {
+        "App\\": "app/"
+    }
+},
+    "authors": [
+        {
+            "name": "soujanya ganta"
+        }
+    ],
+    "require": {}
+}
